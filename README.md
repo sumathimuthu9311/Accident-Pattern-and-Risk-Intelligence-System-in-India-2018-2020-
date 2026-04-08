@@ -32,9 +32,13 @@ Detail the steps you took to make the data usable:
 
 ## 🔍 Exploratory Data Analysis (EDA)
 •	Data cleaning and preprocessing
+
 •	Calculation of severity rate
+
 •	Year-wise comparison
+
 •	Transport-wise analysis
+
 •	State-wise analysis
 
 
@@ -50,8 +54,8 @@ Pedestrians and two-wheelers are the most vulnerable and high-risk groups
 
 ## 🚀 Recommendations
 Translate your insights into actionable business advice.
-- Improve pedestrian safety (footpaths, crossings)
-- Enforce helmet usage for two-wheeler riders
-- Implement strict traffic rules in high-risk states
-- Use data-driven systems for accident prediction"
+-  Improve pedestrian safety (footpaths, crossings)
+-  Enforce helmet usage for two-wheeler riders
+-  Implement strict traffic rules in high-risk states
+-  Use data-driven systems for accident prediction"
 
