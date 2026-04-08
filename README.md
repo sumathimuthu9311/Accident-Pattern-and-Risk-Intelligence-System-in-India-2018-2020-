@@ -1,6 +1,4 @@
 # Accident-Pattern-and-Risk-Intelligence-System-in-India-2018-2020-
-# [Project Title]
-*A concise, descriptive title for your analysis.*
 
 ## 📖 Table of Contents
 - [Project Overview](#-project-overview)
@@ -14,39 +12,46 @@
 
 ## 📊 Project Overview
 
+Road accidents are a major public safety issue in India, leading to a high number of deaths and injuries every year. Understanding accident patterns helps in identifying risk factors and improving road safety measures. This project analyzes accident data from 2018, 2019, and 2020 to study trends, severity, and high-risk categories.
+
 ## 🗂️ Data Source
-Describe where you got the data (e.g., Kaggle, company database, web scraping). Mention the size and key variables.
+
+Government road accident reports (India)
+Public datasets on road safety(www.indiadataportal.com)
+
 
 ## 🛠️ Tools & Technologies
-- **Language:** Python (Pandas, NumPy, Seaborn) or R
-- **Database:** SQL (PostgreSQL/MySQL)
-- **Visualization:** Tableau, Power BI, or Matplotlib
-- **Documentation:** Jupyter Notebook
+Tools :
+Excel,PowerBI
 
 ## 🧹 Data Cleaning & Preparation
 Detail the steps you took to make the data usable:
 1. Handled missing values and duplicates.
-2. Formatted data types (e.g., dates).
-3. Created new calculated columns (Feature Engineering).
+2. Formatted data types.
+3. Created new calculated columns
 
 ## 🔍 Exploratory Data Analysis (EDA)
-What were the main questions you explored?
-- What is the overall sales trend?
-- Is there a correlation between price and customer rating?
+•	Data cleaning and preprocessing
+•	Calculation of severity rate
+•	Year-wise comparison
+•	Transport-wise analysis
+•	State-wise analysis
+
 
 > **Tip:** Insert a screenshot of one key visualization here to catch the reader's eye.
 
 ## 💡 Key Insights
-List your top 3–5 findings in bullet points.
-- **Insight 1:** Sales peaked in Q4, primarily driven by holiday promotions.
-- **Insight 2:** Customers aged 25-34 have the highest lifetime value.
+
+- **Insight 1:** Accident severity rate stayed high (~0.5) across 2018–2020, showing accidents are consistently serious
+- 
+Pedestrians and two-wheelers are the most vulnerable and high-risk groups
+
+- **Insight 2:** High-risk states change each year (Gujarat, Kerala, Karnataka), indicating regional differences in accident patterns
 
 ## 🚀 Recommendations
 Translate your insights into actionable business advice.
-- "Increase marketing budget for the 25-34 demographic."
-- "Re-evaluate the pricing strategy for low-performing regions."
+- Improve pedestrian safety (footpaths, crossings)
+- Enforce helmet usage for two-wheeler riders
+- Implement strict traffic rules in high-risk states
+- Use data-driven systems for accident prediction"
 
-## ⚙️ How to Use
-Explain how someone else can run your project.
-- List dependencies (e.g., `pip install -r requirements.txt`).
-- Provide instructions for running the notebook or script.
